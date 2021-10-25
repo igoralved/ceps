@@ -1,4 +1,4 @@
-package com.example.acessingdatajpa;
+package ceps.src.main.java.com.example.acessingdatajpa;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
